@@ -1,0 +1,259 @@
+﻿plant_name_en,infection_status_en,Disease_Name_en,Recomandation_for_treatment_en,plant_name_ar,infection_status_ar ,Disease_Name_ar,Recomandation_for_treatment_ar,,
+Bell pepper,infected,Bell pepper_Bell pepper_Bacterial_spot,"Cultural Control:
+1- Drip Irrigation & Spacing: Reduces moisture, improves air circulation, and prevents bacterial spread.
+
+2- Mulching & Soil Health: Organic mulches minimize soil splash, while enriched soil boosts plant resilience.
+
+Chemical Control:
+1- Use copper-based bactericides (Copper Oxychloride 50% WP) as a protectant, applying at the first signs of disease and repeating every 7-14 days in warm, moist conditions.
+
+2- Follow label instructions carefully to avoid phytotoxicity and maximize effectiveness.
+
+Organic Control:
+1- Use organic control in early disease stages or before harvest; for advanced cases, apply chemical treatments. Avoid mixing products.
+
+2- Prevention is key: If infection starts early, consider destroying the crop. Copper bactericides protect plants, and bacteriophages can help. Treat seeds with 1.3% sodium hypochlorite (1 min) or hot water (50°C for 25 min).",فلفل حلو,مصابة ,التبقع البكتيري ,"المكافحة الزراعية:
+1- الري بالتنقيط والتباعد: يقلل الرطوبة، يحسن التهوية، ويمنع انتشار البكتيريا.
+
+2- التغطية العضوية وصحة التربة: تقلل التغطية العضوية من تناثر التربة، بينما تعزز التربة الغنية مقاومة النبات.
+
+المكافحة الكيميائية:
+1- استخدم مبيدات البكتيريا القائمة على النحاس (أوكسي كلوريد النحاس 50٪) كحماية، وتطبيقها عند العلامات الأولى للمرض وتكرار ذلك كل 7-14 يومًا في ظروف دافئة ورطبة.
+
+2- اتبع تعليمات الاستخدام بدقة لتجنب التأثيرات السلبية وضمان الفعالية.
+
+المكافحة العضوية:
+1- استخدم المكافحة العضوية في المراحل المبكرة أو قبل الحصاد، وللحالات المتقدمة، استخدم العلاجات الكيميائية. تجنب خلط المنتجات.
+
+2- الوقاية أساسية: إذا بدأت العدوى مبكرًا، فكّر في إتلاف المحصول. تحمي مبيدات البكتيريا النحاسية النباتات، ويمكن أن تُساعد البكتيريا العاثية. عالج البذور بمحلول هيبوكلوريت الصوديوم بتركيز 1.3% (دقيقة واحدة) أو بالماء الساخن (50 درجة مئوية لمدة 25 دقيقة",,
+Bell pepper,healthy,Bell pepper_Bell pepper_healthy,the plant is health,فلفل حلو,سليمة,لا يوجد ,سليمه لا تحتاج الى علاج ,,
+corn,infected,corn_corn_Blight,"Practice crop rotation to reduce disease carryover.
+
+Apply fungicides like propiconazole or mancozeb early when conditions are favorable for disease.
+
+Remove infected crop residues after harvest to prevent spread.",ذرة,مصابة ,اللفحة,"تدوير المحاصيل لتقليل الفطريات في التربة.
+
+رش مبيدات فطرية مثل: propiconazole أو mancozeb مبكرًا.
+
+إزالة بقايا المحاصيل المصابة بعد الحصاد",,
+corn,infected,corn_corn_common_Rust,"Apply fungicides such as tebuconazole or azoxystrobin when symptoms appear.
+
+Reduce plant density and improve air circulation to lower humidity.
+",ذرة,مصابة ,الصدأ الشائع ,"رش مبيدات فطرية مثل: tebuconazole أو azoxystrobin عند ظهور الأعراض.
+
+مراقبة الرطوبة وتقليل الكثافة النباتية لتحسين التهوية",,
+Grape,infected,Grapeblack rot,"1- Apply fungicides (captan or myclobutanil) from bud break to four weeks after bloom for best results.
+
+2- Practice prevention: Remove infected fruit (""mummies""), clear fallen plant material, and prune diseased areas.
+
+3- Monitor in spring: If new lesions appear, remove affected leaves and start a fungicide spray program.",عنب,مصابة ,التعفن الأسود,"1- استخدم مبيدات الفطريات (captan أو myclobutanil) من تفتح البراعم حتى أربعة أسابيع بعد الإزهار للحصول على أفضل النتائج.
+
+2- اتبع إجراءات الوقاية: أزل الثمار المصابة (""المومياوات"")، نظف المخلفات النباتية، وقم بتقليم الأجزاء المصابة.
+
+3- راقب في الربيع: إذا ظهرت آفات جديدة، أزل الأوراق المصابة وابدأ برنامج رش بالمبيدات الفطرية.",,
+Grape,infected,Grapeesca (blackmeasles),"Cultural Control:
+1- Nursery Management: Maintain strict sanitation, disinfect tools, use drip irrigation, and dip grafted vines in protective wax or fungicide solutions. Soak dormant cuttings in hot water (50°C for 30 min) as an additional measure.
+
+2- Vineyard Practices: Plant only healthy vines, avoid weak or J-rooted vines, delay fruiting until balanced growth is achieved, and irrigate new plantings before switching to dryland production.
+
+3- Pruning Techniques: Use delayed (double) pruning in wet conditions, remove infected plant material, and apply pruning wound treatments like B-Lock, Spur Shield, or Vitiseal within 24 hours.
+
+Chemical Control:
+1- Traditional surface treatments do not penetrate grapevine cuttings deeply enough to eliminate fungi.
+
+2- Soaking infected cuttings in fungicides before grafting or planting reduces disease but is not officially approved.
+
+Biological Control:
+1- Combine with sanitation: Use biological control alongside cultural methods for best results.
+
+2- Trichoderma species: Apply within 24 hours of pruning and again after 2 weeks to protect wounds and grafts.",عنب,مصابة ,مرض إيسكا (الحصبة السوداء),"المكافحة الزراعية:
+1- إدارة المشاتل: الحفاظ على التعقيم الصارم، تطهير الأدوات، استخدام الري بالتنقيط وغمس الكروم المطعمة في شمع واقٍ أو محاليل فطرية. نقع القصاصات الخاملة في ماء ساخن (50°C لمدة 30 دقيقة) كإجراء إضافي.
+
+2- ممارسات الكروم: زراعة الكروم السليمة فقط، تجنب الكروم الضعيفة أو ذات الجذور الملتفة (J-rooted)، تأخير الإثمار حتى تحقيق نمو متوازن، وريّ الشتلات الجديدة قبل التحول إلى الإنتاج الجاف.
+
+3- تقنيات التقليم: استخدم التقليم المتأخر (المزدوج) في الظروف الرطبة، وأزل المواد النباتية المصابة، وطبق معالجات جروح التقليم مثل B-Lock أو Spur Shield أو Vitiseal خلال 24 ساعة.
+
+المكافحة الكيميائية:
+1- العلاجات التقليدية لا تخترق قصاصات الكروم بشكل كافٍ للقضاء على الفطريات.
+
+2- نقع القصاصات المصابة في مبيدات الفطريات قبل التطعيم أو الزراعة يقلل المرض لكنه غير مسجل رسميًا لهذا الاستخدام.
+
+المكافحة الحيوية:
+1- اجمعها مع التطهير: استخدم المكافحة الحيوية مع الأساليب الزراعية للحصول على أفضل النتائج.
+
+2- أنواع Trichoderma: طبقها خلال 24 ساعة من التقليم ثم بعد أسبوعين لحماية الجروح والتطعيمات.",,
+Grape,healthy,Grapehealthy,the plant is health,عنب,سليمة ,لا يوجد ,النبات سليم لا يحتاج الى علاج,,
+Grape,infected,Grape leafeblight(isariopsisleaf spot),"1- Increase air circulation to encourage drying of plant tissues (pruning, thinning, spacing, and managing weeds).
+
+2- Apply fungicides (especially early season fungicides used to control primary diseases like copper-based sprays or myclobutanil at the first sign of infection).",عنب,مصابة ,(لفحة أوراق العنب (بقعة أوراق ),"1- زيادة التهوية لتحفيز جفاف أنسجة النبات (التقليم، التخفيف، التباعد، وإدارة الأعشاب).
+
+2- استخدم مبيدات الفطريات (خاصة مبيدات الفطريات في بداية الموسم المستخدمة للتحكم في الأمراض الأساسية مثل الرش بالمركبات النحاسية أو المايكلوبوتانيل عند أول علامة للعدوى).",,
+Olive,infected,Olive_Olive_aculus_olearius,"Preventive measures:
+Prune infected branches and burn them or dispose of them far from the field.
+
+Improve tree ventilation by opening its center during pruning.
+
+Maintain balanced fertilization and avoid excessive nitrogen fertilization because it stimulates the growth of new leaves preferred by the mite.
+
+Organic/Chemical control:
+Effective miticides:
+Acaricide containing Abamectin at a concentration of 1.8% or 3.6%, such as: Vertimec / Agrimec
+
+Microfine Sulfur at 80%, used as a spray on the leaves, preferably at moderate temperatures.                                                                                  When to spray?
+First spray: At the beginning of spring when new leaves are observed.
+
+Second spray: After 10–14 days if the infestation continues.
+
+Do not spray during high temperatures (above 30°C) to avoid leaf burn.",زيتون ,مصابة ,عث الزيتون,"الاجراءات الوقائية :
+تقليم الأفرع المصابة وحرقها أو التخلص منها بعيدًا عن الحقل.
+
+تحسين تهوية الشجرة بفتح قلبها خلال التقليم.
+
+حافظ على توازن التسميد وتجنب التسميد النيتروجيني الزائد لأنه يحفّز نمو الأوراق الجديدة التي يفضلها العث.
+المكافحة العضوية/ الكيميائية : 
+مبيدات فعالة ضد العث:
+أكاريسايد يحتوي على Abamectin بتركيز 1.8% أو 3.6%، مثل: Vertimec / Agrimec
+
+كبريت ميكروني (Microfine Sulfur) بنسبة 80%، يُستخدم كرذاذ على الأوراق، ويفضل عند درجات حرارة معتدلة.
+
+متى ترش؟
+أول رشة: بداية الربيع عند ملاحظة الأوراق الحديثة.
+
+ثاني رشة: بعد 10 – 14 يومًا إذا كانت الإصابة مستمرة.
+
+لا ترش أثناء الحرارة العالية (فوق 30°C) لتجنب حرق الأوراق.
+
+",,
+Olive,healthy,Olive_Olive_healthy,the plant is health,زيتون ,سليمة ,لا يوجد ,النبات سليم لا يحتاج الى علاج,,
+Olive,infected,Olive_Olive_peacock_spot,"Preventive measures:
+Proper pruning to promote ventilation
+Avoid overhead spraying
+Use resistant or tolerant olive varieties
+Avoid excessive nitrogen fertilization
+Perform a preventative spray in late fall before the onset of rain. The purpose of this spray is to cover the leaves with fungicides during the period when conidia begin to grow and reproduce to prevent infection during rainfall.
+
+Organic/chemical control:
+Use copper-based fungicides, such as copper hydroxide or copper oxychloride.
+Use synthetic fungicides such as trifluoxystrobin, pyraclostrobin, or difenoconazole for chemical control.",زيتون ,مصابة ,تبقع أوراق الزيتون ( عين الطاووس ),"الاجراءات الوقائية :
+التقليم السليم لتعزيز التهوية 
+تجنب الري بالرش فوق رؤوس الأشجار 
+استخدام أصناف الزيتون المقاومة أو المتحملة للمرض
+تجنب الإسراف في التسميد بالنيتروجين
+اجراء رشة وقائية في نهاية الخريف قبل بدء هطول الأمطار ، والغرض منها تغطية الأوراق بالمبيدات الفطرية في الفترة التي تبدأ فيها الأبواغ الكونيدية بالنمو والتكاثر لتجنب حدوث العدوى عند هطول الأمطار.  
+
+المكافحة العضوية/الكيميائية :
+استخدام المبيدات الفطرية القائمة على النحاس، مثل هيدروكسيد النحاس أو أوكسيكلوريد النحاس
+استخدام المبيدات الفطرية الصناعية مثل ترايفلوكسيستروبين أو بيراكلوستروبين أو دايفينوكونازول للمكافحة الكيميائية.",,
+Potato,infected,Potato_Potato_Early Blight,"1. Cultural Control :
+ #Remove Infected Leaves – Prune and dispose of affected leaves to reduce the spread of the disease.                                                                                   # Improve Soil Health   .                                                                                                                    2. Biological Control:
+ #Neem Oil & Garlic Extract – Spray organic fungicides like neem oil or garlic extract, which have antifungal propertie .                                                                 3. Chemical Control :
+#Fungicide Application – Use copper-based fungicides or recommended synthetic fungicides such as:
+Chlorothalonil,Mancozeb ,Azoxystrobi               ",بطاطا,مصابة ,الفحة المبكرة,"1. استخدام الطرق التقليدية :                                                                                                                            #ازالة الأوراق المصابة - قم بتقليم الأوراق المصابة والتخلص منها لتقليل انتشار المرض .             #.تحسين صحة التربة .                                                                                                                              2.المكافحة البيولوجية :                                                                                                                                             #زيت النيم ومستخلص الثوم - رش مبيدات الفطريات العضوية مثل زيت النيم أو مستخلص الثوم، والتي لها خصائص مضادة للفطريات.                                                                                                                          3.المكافحة الكيميائية:                                                                                                                              استخدام مبيدات الفطريات - استخدم مبيدات فطريات تحتوي على النحاس أو مبيدات فطريات صناعية مُوصى بها مثل:  Chlorothalonil -
+Mancozeb-
+Azoxystrobi =   ",,
+Potato,healthy,Potato_Potato_healthy,the plant is health,بطاطا,سليمة ,لا يوجد ,النبات سليم لا يحتاج الى علاج,,
+Potato,infected,Potato_Potato_Late Blight,"1.Cultural Control :
+# Remove Infected Leaves & Plants – Cut and destroy infected plant parts to prevent spread.
+
+ #Proper Spacing & Air Circulation – Ensure good airflow between plants to reduce humidity.
+2. Biological Control (Eco-Friendly Treatment):
+
+# Use Biocontrol Agents – Apply Trichoderma harzianum or Bacillus subtilis to suppress the pathogen.
+#Neem Oil & Baking Soda Spray – Mix 1 teaspoon of baking soda with 1 liter of water and a few drops of neem oil to slow fungal spread.
+# Compost Tea Spray – Strengthens plant immunity and helps suppress late blight spores.
+3. Chemical Control (Fungicides):
+#Copper-Based Fungicides – Apply copper sulfate or copper hydroxide before symptoms appear
+Systemic Fungicides – Use targeted treatments like:   
+-Metalaxyl (Ridomil)
+-Fluopicolide
+-Mandipropamid
+-Dimethomorph",بطاطا,مصابة ,الفحة المتأخرة,"1.باستخدام الطرق التقليدية:
+إ#زالة الأوراق والنباتات المصابة - قطع وتدمير أجزاء النبات المصابة لمنع انتشار المرض.
+# التباعد المناسب ودوران الهواء - تأكد من تدفق الهواء الجيد بين النباتات لتقليل الرطوبة.
+2.المكافحة البيولوجية:
+ا#ستخدام عوامل المكافحة البيولوجية - رشّ فطريات التريكوديرما هارزيانوم أو العصوية الرقيقة للقضاء على مسببات الأمراض.
+
+# بخاخ زيت النيم وصودا الخبز - اخلط ملعقة صغيرة من صودا الخبز مع لتر واحد من الماء وبضع قطرات من زيت النيم لإبطاء انتشار الفطريات.
+
+# بخاخ شاي السماد - يقوي مناعة النبات ويساعد في القضاء على جراثيم اللفحة المتأخرة.                        3. المكافحة الكيميائية (مبيدات الفطريات):
+
+#مبيدات الفطريات القائمة على النحاس - رش كبريتات النحاس أو هيدروكسيد النحاس قبل ظهور الأعراض.
+
+مبيدات الفطريات الجهازية - استخدم علاجات موجهة مثل:-Metalaxyl (Ridomil)-
+-Fluopicolide-
+-Mandipropamid-
+-Dimethomorph-",,
+Strawberry,healthy,Strawberry_Strawberry_healthy,the plant is health,فراولة ,سليمة ,لا يوجد ,النبات سليم لا يحتاج الى علاج,,
+Strawberry,infected,Strawberry_Strawberry_Leaf Scorch,"1. Use of Fungicides:
+Spray with fungicides such as Mancozeb, Copper-based fungicides, or Myclobutanil.
+It is recommended to spray every 7-14 days when the first symptoms appear.
+
+2. Improve Ventilation and Reduce Humidity:
+
+Grow strawberries in sunny areas with adequate spacing between plants.
+Use drip irrigation instead of overhead watering to avoid wetting the leaves.
+Remove weeds around the plants to reduce humidity and improve air circulation.
+
+3. Remove Infected Parts:
+
+Trim infected leaves and dispose of them away from the field.
+Do not leave infected leaves on the soil, as they may spread the infection to other plants.
+
+4. Choose Resistant Varieties:
+
+Plant resistant varieties to reduce the likelihood of leaf spot infections.
+
+5. Balanced Fertilization:
+
+Avoid excessive nitrogen fertilization as it can increase the plant’s sensitivity to diseases.
+Promote plant health by using fertilizers containing potassium and calcium to strengthen the leaves.",فراولة ,مصابة ,احتراق الاوراق,"الرش بمبيدات مثل Mancozeb، Copper-based fungicides، أو Myclobutanil.
+يفضل الرش كل 7-14 يومًا عند ظهور الأعراض الأولى.
+2. تحسين التهوية وتقليل الرطوبة:
+
+زراعة الفراولة في أماكن مشمسة مع مسافات كافية بين النباتات.
+استخدام الري بالتنقيط بدلًا من الري بالرش لتجنب ترطيب الأوراق.
+إزالة الأعشاب الضارة حول النباتات لتقليل الرطوبة وزيادة التهوية.
+3. إزالة الأجزاء المصابة:
+
+تقليم الأوراق المصابة والتخلص منها بعيدًا عن الحقل.
+عدم ترك الأوراق المصابة على التربة لأنها قد تنقل العدوى للنباتات الأخرى.
+4. اختيار أصناف مقاومة:
+
+زراعة أصناف مقاومة لبقع الأوراق لتقليل فرص الإصابة.
+5. التسميد المتوازن:
+
+تجنب الإفراط في التسميد النيتروجيني لأنه قد يزيد من حساسية النبات للأمراض.
+تعزيز صحة النبات باستخدام سماد يحتوي على البوتاسيوم والكالسيوم لتقوية الأوراق.",,
+Tomato,infected,Tomato bacterial spot,"Use copper-based fungicides (such as copper oxychloride) while avoiding excessive application to reduce bacterial resistance.
+Plant resistant varieties.
+Avoid overhead irrigation to prevent the spread of bacteria through water.
+Remove and destroy infected leaves",بندوره,مصابة ,التبقع البكتيري ,"استخدام مبيدات نحاسية (مثل أوكسي كلوريد النحاس) مع تجنب الإفراط لتقليل مقاومة البكتيريا.
+زراعة أصناف مقاومة.
+تجنب الري بالرش لمنع انتشار البكتيريا بالماء.
+إزالة الأوراق المصابة وتدميرها.",,
+Tomato,infected,Tomato early blight,"Spray fungicides such as Chlorothalonil or Mancozeb every 7-10 days.
+Grow tomatoes in well-ventilated areas and avoid dense planting.
+Improve soil drainage and use drip irrigation instead of overhead watering.",بندوره ,مصابة ,الفحه المبكرة,"رش مبيدات فطرية مثل Chlorothalonil أو Mancozeb كل 7-10 أيام.
+زراعة الطماطم في أماكن جيدة التهوية وتجنب الزراعة الكثيفة.
+تحسين تصريف التربة والري بالتنقيط بدلًا من الري العلوي.",,
+Tomato,healthy,Tomato hralthy,the plant is health,بندوره ,سليمة  ,لا يوجد ,النبات سليم لا يحتاج الى علاج,,
+Tomato,infected,Tomato late blight,"Use fungicides such as Mancozeb, Chlorothalonil, or copper-based fungicides.
+Remove infected leaves quickly to reduce disease spread.
+Improve air circulation between plants.",بندوره ,مصابة ,الفحة المتأخرة,"استخدام مبيدات فطرية مثل Mancozeb، Chlorothalonil، أو Copper-based fungicides.
+إزالة الأوراق المصابة بسرعة لتقليل انتشار المرض.
+تحسين دوران الهواء بين النباتات.",,
+Tomato,infected,Tomato leaf mold,"Use fungicides such as Chlorothalonil or copper fungicides.
+Ensure good ventilation and reduce humidity.
+Remove infected leaves and avoid overhead watering.",بندوره ,مصابة ,العفن الورقي,"استخدام مبيدات فطرية مثل Chlorothalonil أو Copper fungicides.
+توفير تهوية جيدة وتقليل الرطوبة.
+إزالة الأوراق المصابة وتجنب الري العلوي.",,
+Tomato,infected,Tomato target spot,"Use fungicides such as Chlorothalonil or Mancozeb.
+Remove infected plant parts and improve air circulation between plants.
+Avoid overwatering and reduce humidity around the plant.",بندوره ,مصابة ,بقعة الهدف,"استخدام مبيدات فطرية مثل Chlorothalonil أو Mancozeb.
+إزالة الأجزاء المصابة من النبات وتحسين دوران الهواء بين النباتات.
+تجنب الإفراط في الري وتقليل الرطوبة حول النبات.",,
+Tomato,infected,Tomato yellow leaf curl virus,"Grow resistant varieties such as TYLCV-resistant tomatoes.
+Control whiteflies (the primary vector) using pesticides like Imidacloprid or Thiamethoxam.
+Use protective netting around crops to reduce infection.",بندوره ,مصابة ,فايروس تجعد الاوراق الاصفر,"زراعة أصناف مقاومة مثل TYLCV-resistant tomatoes.
+مكافحة الذبابة البيضاء (الناقل الأساسي) باستخدام المبيدات مثل Imidacloprid أو Thiamethoxam.
+استخدام شبك الحماية حول المحاصيل لتقليل الإصابة.",,
